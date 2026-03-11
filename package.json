@@ -1,0 +1,26 @@
+{
+  "name": "miniproject",
+  "version": "1.0.0",
+  "description": "A Collage 4th year project",
+  "keywords": [
+    "JavaScript",
+    "Express",
+    "React",
+    "TailwindCSS",
+    "My",
+    "Efforts",
+    "and",
+    "Dedication",
+    "Best",
+    "of",
+    "my",
+    "luck"
+  ],
+  "license": "ISC",
+  "author": "Suman Kumar Sharma",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
